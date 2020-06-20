@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: #393e46;
+  text-align: center;
+}
+.heading h1 {
+  color: #4ecca3;
+  font-size: 8rem;
+  font-family: "Lobster", cursive;
+  margin: 30px;
+  text-shadow: 4px 4px #232931;
+}
+.dice {
+  display: inline-block;
+}
+.dice p {
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+  font-size: 2rem;
+}
